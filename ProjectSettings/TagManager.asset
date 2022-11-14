@@ -6,6 +6,10 @@ TagManager:
   tags:
   - personaje
   - activador
+  - Puzzle
+  - activador1
+  - activador2
+  - activador3
   layers:
   - Default
   - TransparentFX
