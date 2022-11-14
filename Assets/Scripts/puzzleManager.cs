@@ -9,6 +9,7 @@ public class puzzleManager : MonoBehaviour
    public GameObject act2;
    public GameObject act3;
 
+
 void OnTriggerEnter (Collider other) 
 {
     //pregunta si estoy adentro del 1,2,3 activador, para mostrar el play de su puzzle
