@@ -18,6 +18,6 @@ public class gyro_Script : MonoBehaviour
     {
         rot.y=-Input.gyro.rotationRateUnbiased.y;
 
-        transform.Rotate(rot);
+        transform.Rotate(rot*5);
     }
 }
